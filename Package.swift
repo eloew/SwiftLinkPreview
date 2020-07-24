@@ -11,6 +11,6 @@ let package = Package(
     targets: [
         .target(
             name: "SwiftLinkPreview",
-            path: "Source")
+            path: "Sources")
     ]
 )
